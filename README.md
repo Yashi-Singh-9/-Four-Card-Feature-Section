@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- **Solution URL:** [View Solution](https://your-solution-url.com)
-- **Live Site URL:** [Live Demo](https://your-live-site-url.com)
+- **Solution URL:** [View Solution](https://www.frontendmentor.io/solutions/four-card-feature-section-bvDgD6I2an)
+- **Live Site URL:** [Live Demo](https://four-card-feature-section-by-yashi.netlify.app)
 
 ## Badges
 
@@ -43,6 +43,7 @@ Users should be able to:
 [![HTML5 Badge](https://img.shields.io/badge/HTML5-%20%23E34F26.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
 [![CSS3 Badge](https://img.shields.io/badge/CSS3-%20%231572B6.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
 [![Mobile-First Badge](https://img.shields.io/badge/Mobile%20First-%20%2300B2A3.svg)](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Mobile_first)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/36a1e2ab-82d0-448a-a40a-5af80d69441c/deploy-status)](https://app.netlify.com/sites/four-card-feature-section-by-yashi/deploys)
 
 ## My Process
 
@@ -91,7 +92,7 @@ For the style guide refer to [Style Guide File](style-guide.md)
 
 ## Author
 
-- **Frontend Mentor** - [@yashi_singh](https://www.frontendmentor.io/profile/Yashi-Singh-1)
+- **Frontend Mentor** - [@Yashi-Singh-1](https://www.frontendmentor.io/profile/Yashi-Singh-1)
 - **LinkedIn** - [Yashi Singh](https://www.linkedin.com/in/yashi-singh-b4143a246)
 
 ## Acknowledgments
