@@ -34,7 +34,6 @@ Users should be able to:
 
 ### Links
 
-- **Solution URL:** [View Solution](https://www.frontendmentor.io/solutions/four-card-feature-section-bvDgD6I2an)
 - **Live Site URL:** [Live Demo](https://four-card-feature-section-by-yashi.netlify.app)
 
 ## Badges
@@ -92,7 +91,7 @@ For the style guide refer to [Style Guide File](style-guide.md)
 
 ## Author
 
-- **Frontend Mentor** - [@Yashi-Singh-1](https://www.frontendmentor.io/profile/Yashi-Singh-1)
+- **Frontend Mentor** - [@Yashi-Singh-9](https://www.frontendmentor.io/profile/Yashi-Singh-9)
 - **LinkedIn** - [Yashi Singh](https://www.linkedin.com/in/yashi-singh-b4143a246)
 
 ## Acknowledgments
